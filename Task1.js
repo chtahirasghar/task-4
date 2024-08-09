@@ -43,6 +43,7 @@ const inventory = new Inventory();
 // Add products to the inventory
 inventory.addProduct(product1);
 inventory.addProduct(product2);
+inventory.addProduct(product3);
 
 // Log the total value of the inventory after a 3-second delay
 inventory.logInventoryAfterDelay();
